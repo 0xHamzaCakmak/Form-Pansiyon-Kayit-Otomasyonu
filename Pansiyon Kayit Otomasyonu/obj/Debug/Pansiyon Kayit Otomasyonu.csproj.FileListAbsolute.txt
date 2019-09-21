@@ -1,0 +1,11 @@
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\bin\Debug\Pansiyon Kayit Otomasyonu.exe.config
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\bin\Debug\Pansiyon Kayit Otomasyonu.exe
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\bin\Debug\Pansiyon Kayit Otomasyonu.pdb
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon Kayit Otomasyonu.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.FrmGiris.resources
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.FrmMusteriKayit.resources
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.Properties.Resources.resources
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon Kayit Otomasyonu.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon Kayit Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon Kayit Otomasyonu.exe
+C:\Users\reela\source\repos\Pansiyon Kayit Otomasyonu\Pansiyon Kayit Otomasyonu\obj\Debug\Pansiyon Kayit Otomasyonu.pdb
